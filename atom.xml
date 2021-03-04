@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://github.com/aniquest/aniquest.github.io</id>
+    <id>https://aniquest.github.io</id>
     <title>Gridea</title>
-    <updated>2021-03-04T06:27:51.539Z</updated>
+    <updated>2021-03-04T06:32:44.925Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://github.com/aniquest/aniquest.github.io"/>
-    <link rel="self" href="https://github.com/aniquest/aniquest.github.io/atom.xml"/>
+    <link rel="alternate" href="https://aniquest.github.io"/>
+    <link rel="self" href="https://aniquest.github.io/atom.xml"/>
     <subtitle>温故而知新</subtitle>
-    <logo>https://github.com/aniquest/aniquest.github.io/images/avatar.png</logo>
-    <icon>https://github.com/aniquest/aniquest.github.io/favicon.ico</icon>
+    <logo>https://aniquest.github.io/images/avatar.png</logo>
+    <icon>https://aniquest.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Gridea</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://github.com/aniquest/aniquest.github.io/post/hello-gridea/</id>
-        <link href="https://github.com/aniquest/aniquest.github.io/post/hello-gridea/">
+        <id>https://aniquest.github.io/post/hello-gridea/</id>
+        <link href="https://aniquest.github.io/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
